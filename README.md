@@ -110,7 +110,7 @@ uv run jupyter notebook
 If you're learning PyTorch too, or want to follow along:
 
 - GitHub: [@IkkIsuhas](https://github.com/IkkIsuhas)
-- LinkedIn: [Your Name](https://linkedin.com/in/suhas-dev)
+- LinkedIn: [SUHAS](https://linkedin.com/in/suhas-dev)
 
 ---
 
